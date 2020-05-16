@@ -80,6 +80,7 @@ source $DOTFILES/bash/aliases
 source $DOTFILES/bash/aliases_env_specific
 source $DOTFILES/bash/autocomplete/autocomplete
 source $DOTFILES/bash/dirmarks # This is neat
+source ~/.fzf.bash
 
 export HISTCONTROL=ignoreboth
 export PATH=$PATH:~/.dotfiles/bin

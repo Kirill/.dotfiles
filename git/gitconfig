@@ -40,10 +40,6 @@
   # Fancy logging.
   l-graph = log --graph --pretty=format:'%h -%d %s %n' --abbrev-commit --date=relative --branches
 
-[user]
-	name = Alex Oliveira
-	email = kurko@users.noreply.github.com
-
 [color]
   diff = auto
   status = auto
